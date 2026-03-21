@@ -1,5 +1,8 @@
 # To-Do List (DOM)
 
+## Live Demo
+[View Project](https://nathan-ribeiro-de-souza.github.io/todo-list-dom-js/)
+
 A simple interactive to-do list application built using HTML, CSS, and JavaScript, focused on DOM manipulation and front-end fundamentals.
 
 ## About the Project
